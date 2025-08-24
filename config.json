@@ -1,18 +1,10 @@
 {
-  "leaderboard_update_interval": 20,
-  "bots": [
+  "leaderboard_update_interval": 6,
+  "trend_names": [
     "Bot_Alex_bots",
     "Bot_Sarah_bots",
     "Bot_Luna_bots"
   ],
-  "max_score_limit": 5000,
-  "messages": [
-    "Welcome to the game!",
-    "Weekend bonus active!",
-    "Check out the new event!"
-  ],
-  "features": {
-    "double_xp_enabled": true,
-    "maintenance_mode": false
-  }
+  "remove_inactive_players_time_chance": 0.05,
+  "update_version": 20,
 }
