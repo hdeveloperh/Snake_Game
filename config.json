@@ -1,0 +1,18 @@
+{
+  "leaderboard_update_interval": 20,
+  "bots": [
+    "Bot_Alex_bots",
+    "Bot_Sarah_bots",
+    "Bot_Luna_bots"
+  ],
+  "max_score_limit": 5000,
+  "messages": [
+    "Welcome to the game!",
+    "Weekend bonus active!",
+    "Check out the new event!"
+  ],
+  "features": {
+    "double_xp_enabled": true,
+    "maintenance_mode": false
+  }
+}
