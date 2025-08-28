@@ -5,7 +5,8 @@
     "Bot_Sarah_bots",
     "Bot_Luna_bots"
   ],
-  "incorrect_names":["footjob","footfetish"],
+  "incorrect_names":[],
+  "message":"Hello and Welocome! \n i hope you are doing well!",
   "remove_inactive_players_lb_chance": 0.05,
   "update_version": 20
 }
