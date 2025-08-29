@@ -1,9 +1,7 @@
 {
   "leaderboard_update_interval": 6,
-  "new_names": [
-  ],
   "incorrect_names":[],
   "message":"",
   "remove_inactive_players_lb_chance": 0.05,
-  "update_version": 20
+  "update_version": 30
 }
