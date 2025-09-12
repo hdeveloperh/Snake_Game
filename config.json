@@ -1,5 +1,5 @@
 {
-  "leaderboard_update_interval": 15,
+  "leaderboard_update_interval": 20,
   "incorrect_names":[],
   "message":"",
   "remove_inactive_players_lb_chance": 0.01,
