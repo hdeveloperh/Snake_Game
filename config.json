@@ -3,6 +3,6 @@
   "incorrect_names":[],
   "message":"",
   "remove_inactive_players_lb_chance": 0.01,
-  "update_version": 200,
-  "update_message":"A new version is available!"
+  "update_version": 203,
+  "update_message":"A new version is available!\n Update now to enjoy the latest fixes and improvements."
 }
