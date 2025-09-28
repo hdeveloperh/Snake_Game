@@ -2,7 +2,7 @@
   "leaderboard_update_interval": 20,
   "incorrect_names":[],
   "message":"",
-  "remove_inactive_players_lb_chance": 0.01,
+  "local_update": 0,
   "update_version": 205,
   "update_message":"A new version is available!\n\nUpdate now to enjoy the latest fixes and improvements."
 }
